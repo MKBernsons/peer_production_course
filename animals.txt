@@ -1,4 +1,4 @@
-leons
-Tigrs
-Leperds
-Turtel
+leons orange
+Tigrs violet
+Leperds black
+Turtel green
